@@ -134,3 +134,6 @@ _Pvt_Extensions
 *.vcxproj.filters
 
 *.props
+
+# Ogre3D 
+/Dependencies/ogre-1.11.5/Build
